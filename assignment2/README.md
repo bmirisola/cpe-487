@@ -7,6 +7,17 @@
 # Compilation Instructions. Run the following quoted commands in a terminal
 ## All instructions performed on Ubuntu 21.10 (More Specifically Pop!_OS) 
 
+##### Config File compilation:
+
+`ghdl -a full_adder.vhd`  
+`ghdl -a full_adder_testbench.vhd`   
+`ghdl -e full_adder_testbench`   
+`ghdl -r full_adder_testbench --vcd=full_adder_testbench.vcd` 
+
+![VCD Screenshot in GTKWave Non binary](gtkwaveScreenshot-non-binary.png)
+
+##### Binary Compilation:
+
 `ghdl-gcc -a full_adder.vhd`  
 *Outputs a full_adder binary*  
 `ghdl-gcc -a full_adder_testbench.vhd`  
