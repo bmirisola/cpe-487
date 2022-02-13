@@ -14,6 +14,6 @@ Hey Professor Lu, I tried citing this in IEEE notation. Could you let me know if
 *Outpus a linked binary*  
 `./full_adder_testbench --vcd=full_adder_testbench.vcd`  
  
-**To load into gtkwave with file**
+**To load into gtkwave with file**  
 `gtkwave full_adder_testbench.vcd`
 
