@@ -17,3 +17,4 @@ Hey Professor Lu, I tried citing this in IEEE notation. Could you let me know if
 **To load into gtkwave with file**  
 `gtkwave full_adder_testbench.vcd`
 
+![VCD Screenshot in GTKWave](gtkwaveScreenshot.png)
