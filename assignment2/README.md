@@ -24,8 +24,8 @@
 `ghdl-gcc -e full_adder_testbench`  
 *Outpus a linked binary*  
 `./full_adder_testbench --vcd=full_adder_testbench.vcd`  
- 
-**To load into gtkwave with file**  
-`gtkwave full_adder_testbench.vcd`
 
 ![VCD Screenshot in GTKWave](gtkwaveScreenshot.png)
+
+**To load into gtkwave with file**  
+`gtkwave full_adder_testbench.vcd`
