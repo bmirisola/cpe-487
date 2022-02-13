@@ -19,3 +19,4 @@ L. Võsandi, “Using gtkwave to analyze waveforms,” Lauri's blog. [Online]. A
 **To load into gtkwave with file**  
 `gtkwave full_adder_testbench.vcd`
 
+![VCD Screenshot in GTKWave](gtkwaveScreenshot.png)
