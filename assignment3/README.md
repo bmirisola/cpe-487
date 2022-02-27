@@ -17,13 +17,13 @@
 	
 
 ### Lab 1 Part 2: Single-digit hex counter
+- Code
 	- Similar steps from Project 1, but in reference with [Project 2 - Hex Counter](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1#project-2---hex-counter)
-	- Used code from different files, but still the same procedure
+	- Used code from respective project, but with the aforementioned procedure
 	- Programmed the Nexys A7-100T board with the generated `hexcount.bit` file
-	- Built a 4-bit hex counter
-		- The least significant 7-segment decoder cycles from 0 to F
-		- Download and watch [4-bit_Hex_Counter.mp4](./4-bit_Hex_Counter.mp4)
+-  Usage
+		- The least significant 7-segment decoder automatically cycles from 0 to F
 		
-		![4-bit_Hex_Counter GIF](./4-bit_Hex_Counter.gif)
+		![4-bit_Hex_Counter GIF](./hexcount/hexcount.gif)
 
-[README.md file style inspired by Calvin Zheng](https://github.com/Crystal-Link/CPE487-Work/blob/main/Assignments/Assignment%203%20-%20Vivado%20Lab%201/README.md)
+				[README.md file style inspired by Calvin Zheng](https://github.com/Crystal-Link/CPE487-Work/blob/main/Assignments/Assignment%203%20-%20Vivado%20Lab%201/README.md)
