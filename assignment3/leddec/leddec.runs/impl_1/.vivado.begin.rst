@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bmirisola" Host="benny-pop-os-partition" Pid="20719" HostCore="16" HostMemory="14235004">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bmirisola" Host="benny-pop-os-partition" Pid="22634" HostCore="16" HostMemory="14235004">
+    </Process>
+</ProcessHandle>
