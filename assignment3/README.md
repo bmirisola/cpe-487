@@ -13,7 +13,7 @@
 	- Slide switches 0, 1, 2, and 3 to display the value of 4-bit hex digit from 0 to F
 	- Slide switches 13, 14, and 15 to determine which display is illuminated
 		
-		![LED Decoder GIF](./leddec/LED_Decoder.gif)
+		![LED Decoder GIF](./leddec/leddec.gif)
 	
 
 ### Lab 1 Part 2: Single-digit hex counter
