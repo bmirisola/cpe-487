@@ -22,7 +22,7 @@
 	- Used code from respective project, but with the aforementioned procedure
 	- Programmed the Nexys A7-100T board with the generated `hexcount.bit` file
 -  Usage
-		- The least significant 7-segment decoder automatically cycles from 0 to F
+	- The least significant 7-segment decoder automatically cycles from 0 to F
 		
 		![4-bit_Hex_Counter GIF](./hexcount/hexcount.gif)
 
