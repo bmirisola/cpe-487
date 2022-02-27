@@ -1,5 +1,5 @@
 # Assignment 3: Vivado Lab 1
-## All vhd and constrain files in .srcs folder of respective project
+## All vhd and constraint files in .srcs folder of respective project
 
 ### Lab 1 Part 1: LED decoder
 - Code
@@ -26,4 +26,7 @@
 		
 		![4-bit_Hex_Counter GIF](./hexcount/hexcount.gif)
 
-				[README.md file style inspired by Calvin Zheng](https://github.com/Crystal-Link/CPE487-Work/blob/main/Assignments/Assignment%203%20-%20Vivado%20Lab%201/README.md)
+	
+	
+	
+[README.md file style inspired by Calvin Zheng](https://github.com/Crystal-Link/CPE487-Work/blob/main/Assignments/Assignment%203%20-%20Vivado%20Lab%201/README.md)
