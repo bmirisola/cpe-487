@@ -1,10 +1,10 @@
 #Vivido junk
 
-**/.cache
-**/.hw
-**/.ip_user_files
-**/.runs
-**/.sim
+*.cache*
+*.hw*
+*.ip_user_files*
+*.runs*
+*.sim*
 *.xpr
 
 #VHDL or GHDL
