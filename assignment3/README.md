@@ -1,20 +1,6 @@
 # Assignment 3: Vivado Lab 1
-###### Note: Each of these labs are referenced from Professor Kevin Lu's [dsd repository](https://github.com/kevinwlu/dsd).
 
-###### Since I am using a [NI Digilent Nexys A7-100T FPGA Trainer Board](https://digilent.com/reference/programmable-logic/nexys-a7/start?redirect=1), the relevant labs are [here](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7). To go straight to Lab 1, [click here](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1).
-
-Open Vivado and create VHDL projects to synthesize, implement, generate bitstream, and program FPGA for
-1. Lab 1 Project 1: LED decoder
-2. Lab 1 Project 2: Single-digit hex counter
-
-
-Program Outcome 6: (*Experimentation*)
-
-1.3 The student will be able to represent and document designs, perform simulations and synthesize implementations using software tools provided by an FPGA vendor.
-
-### Submission:
-
-- Lab 1 Project 1: LED decoder
+- Lab 1 Part1 1: LED decoder
 	- Created a new project in Vivado called `leddec` (LED Decoder)
 	- Followed the instructions from [Project 1 - LED Decoder](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1#project-1---led-decoder) to set up the Vivado project
 	- Using code provided, edited the Design Sources and Constraints of the project
