@@ -6,6 +6,8 @@
 *.runs*
 *.sim*
 *.xpr
+*.dcp
+
 
 #VHDL or GHDL
 *.o
