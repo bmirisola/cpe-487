@@ -14,7 +14,7 @@
 	- Plug VGA Display cable into appropriate monitor.
 	- Ball will automatically start moving up and down.
 		
-		![4 digit counter GIF](./hex4count/hex4count.gif)
+		![vgaball](./vgaball/vgaball.gif)
 	
 ### Lab 3 Part 2: VGAball modifications
 - Code
@@ -28,7 +28,7 @@
 	- Ball can move in x and y direction
 	- Ball will automatically start bouncing around screen
 		
-		![flashed program](./hex4count/flash.gif)
+		![vgaball_modifications](./vgaball_modifications/vgaball_modifications.gif)
 
 
 ### Lab 6 Part 1: PONG
@@ -46,7 +46,7 @@
 	- Press BTNC button to spawn ball 
 	- Ball will automatically start moving.
 		
-		![4 digit counter GIF](./hex4count/hex4count.gif)
+		![Pong](./pong/pong.gif)
 	
 ### Lab 6 Part 2: Pong modifications
 - Code
@@ -60,4 +60,4 @@
 	- Points will count upwards on leds on boards
 	- Bar will get one pixel smaller for every intersection between ball and bar
 		
-		![flashed program](./hex4count/flash.gif)
+		![Pong with Counter](./pong_modifications/pong_modifications.gif)
