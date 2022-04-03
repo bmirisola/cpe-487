@@ -19,7 +19,8 @@
 	- Press `BTNC` button to clear display
 	
 		
-		![vgaball](./vgaball/vgaball.gif)
+		![hexcalc](./hexcalc/hexcalc.gif)
+		
 	
 ### Lab 4 Part 2: Hexcalc modifications
 - Code
@@ -32,4 +33,4 @@
 	- Display will now supress leading zeros
 	- Press `BTND` button for - operator
 		
-		![vgaball_modifications](./vgaball_modifications/vgaball_modifications.gif)
+		![hexcalc_modifications](./hexcalc_modifications/hexcalc_modifications.gif)
