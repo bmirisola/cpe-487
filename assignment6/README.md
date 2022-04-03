@@ -1,4 +1,4 @@
-# Assignment 5: Vivado Lab 3 and 6
+# Assignment 6: Vivado Lab 4
 ## All vhd and constraint files in .srcs folder of respective project
 
 ### Lab 4 Part 1: Hexcalc
