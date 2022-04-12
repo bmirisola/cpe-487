@@ -14,7 +14,7 @@
 	- Plug wail module into Nexys A7-100T board
 	- Module will start playing a tone with a clock rate of 48Hz
 	
-		
+		![wail](https://github.com/bmirisola/cpe-487/blob/main/assignment7/siren/wail.wav?raw=true
 		![siren](./siren/wail.jpg)
 		
 	
@@ -28,4 +28,5 @@
 	- Same procedure for playing tone as before
 	- Use switches to modify frequency
 		
-		![siren_modifications](./siren_modifications/siren_modifications.jpg)
+		
+		![siren_modifications](./siren_modifications/wail_modifications.jpg)
