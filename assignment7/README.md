@@ -1,22 +1,18 @@
-# Assignment 6: Vivado Lab 4
+# Assignment 7: Vivado Lab 5
 ## All vhd and constraint files in .srcs folder of respective project
 
-### Lab 4 Part 1: Hexcalc
+### Lab 5 Part 1: Siren
 - Code
-	- Created a new project in Vivado called `hexcalc`
-	- Followed the instructions from [Lab 4](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4) to set up the Vivado project
+	- Created a new project in Vivado called `siren`
+	- Followed the instructions from [Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5) to set up the Vivado project
 	- Using code provided, edited the Design Sources and Constraints of the project
 	- Ran synthesis and implementation
   	- Then generated bitstream
-	- Programmed the Nexys A7-100T board with the generated `hexcalc.bit` file
+	- Programmed the Nexys A7-100T board with the generated `siren.bit` file
 
 - Usage
-	- Plug keypad into Nexys A7-100T board
-	- Type multi-digit hex number using keypad
-	- Press `BTNU` button for the + operator
-	- Type multi-digit hex number using keypad
-	- Press `BTNL` button for the = operator to calculate number
-	- Press `BTNC` button to clear display
+	- Plug wail module into Nexys A7-100T board
+	- Module will start playing a tone with a clock rate of 48Hz
 	
 		
 		![hexcalc](./hexcalc/hexcalc.gif)
