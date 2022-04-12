@@ -15,18 +15,17 @@
 	- Module will start playing a tone with a clock rate of 48Hz
 	
 		
-		![wail](./siren/wail.wav)
+		![siren](./siren/wail.jpg)
 		
 	
-### Lab 4 Part 2: Hexcalc modifications
+### Lab 5 Part 2: Siren modifications
 - Code
-  	- Created project called hexcalc_modifications
-	- Similar steps from Part 1, but source and constraint files are from [modifcations subfolder](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4/Modifications)
+  	- Created project called siren_modifications
+	- Similar steps from Part 1, but source and constraint files are from [modifcations subfolder](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5/Modifications)
 	- Used code from respective project, but with the aforementioned procedure
-	- Programmed the Nexys A7-100T board with the generated `hexcalc_1.bit` file
+	- Programmed the Nexys A7-100T board with the generated `siren_1.bit` file
 -  Usage
-	- Same procedure for calculating number as before
-	- Display will now supress leading zeros
-	- Press `BTND` button for - operator
+	- Same procedure for playing tone as before
+	- Use switches to modify frequency
 		
-		![hexcalc_modifications](./hexcalc_modifications/hexcalc_modifications.gif)
+		![siren_modifications](./siren_modifications/siren_modifications.jpg)
