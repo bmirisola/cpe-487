@@ -15,7 +15,7 @@
 	- Module will start playing a tone with a clock rate of 48Hz
 	
 		
-		![hexcalc](./hexcalc/hexcalc.gif)
+		![wail](./siren/wail.wav)
 		
 	
 ### Lab 4 Part 2: Hexcalc modifications
